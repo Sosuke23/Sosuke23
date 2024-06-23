@@ -1,6 +1,7 @@
 ## Hi there 👋
 🏎
 ![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakin23&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakin23&layout=compact)
 <!--
 **freakin23/freakin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
