@@ -6,15 +6,7 @@
 -->
 
 ## 📈 Coding Profiles
-
-<span>
-<a href="https://codeforces.com/profile/freakin23">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=freakin23&force_username=true&border_color=404040" alt="Rameez's Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/freakin23">
-<img height="316" src="https://leetcard.jacoblin.cool/freakin23?theme=light&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/freakin23/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rameez's Leetcode Stats"/>
-</a>
-</span>
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=freakin23)
 
 <!--
 **freakin23/freakin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
