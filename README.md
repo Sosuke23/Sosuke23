@@ -1,7 +1,8 @@
 ## Hi there 👋 I am Rameez.
 🏎
-<img src = "Screenshot 2023-11-18 at 12-47-50 Jujutsu Kaisen (2020).png"/>
+<img src = "Screenshot from 2023-11-18 12-54-06.png"/>
 <!--
+<img src = "Screenshot 2023-11-18 at 12-47-50 Jujutsu Kaisen (2020).png"/>
 ![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakin23&show_icons=true&rank_icon=github&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakin23&layout=compact)
 
