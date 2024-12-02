@@ -1,17 +1,17 @@
 ## Hi there 👋 I am Rameez.
 🏎
 
-<img src = "Screenshot from 2023-11-18 12-54-06.png"/>
 
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freakin23&label=Profile%20views&color=0e75b6&style=flat" alt="freakin23" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freakin23" alt="freakin23" /></a> </p>
-![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=freakin23&show_icons=true&rank_icon=github&theme=transparent)
+<img src = "Screenshot from 2023-11-18 12-54-06.png"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sosuke23&label=Profile%20views&color=0e75b6&style=flat" alt="Sosuke23" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sosuke23" alt="Sosuke23" /></a> </p>
+![Rameez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sosuke23&show_icons=true&rank_icon=github&theme=transparent)
 <img src = "Screenshot 2023-11-18 at 12-47-50 Jujutsu Kaisen (2020).png"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freakin23&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sosuke23&layout=compact)
 
 
-**freakin23/freakin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sosuke23/Sosuke23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
