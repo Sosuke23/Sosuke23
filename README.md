@@ -13,7 +13,7 @@
 
 <!--Contributions-->
 <div align="center">
-    <h2>🐍 Contributions 🐍</h2>
+    <h2>🏎 Contributions ⚽ </h2>
     <img alt="contributions eating snake" src="https://raw.githubusercontent.com/sosuke23/sosuke23/output/github-contribution-grid-snake.svg" />
     <br/>
 </div>
