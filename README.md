@@ -2,6 +2,7 @@
 🏎 ⚽ ♛
 
 - [USACO Guide](https://usaco.guide/) Content Author
+- Systems Engineer @ TCS
 - [Competitive Programming Profiles](https://codolio.com/profile/S%C5%8Dsuke)
 
 <div align="center">
