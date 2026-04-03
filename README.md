@@ -2,7 +2,6 @@
 🏎 ⚽ ♛
 
 - [USACO Guide](https://usaco.guide/) Content Author
-- Systems Engineer @ [TCS](https://www.tcs.com/)
 - [Competitive Programming Profiles](https://codolio.com/profile/S%C5%8Dsuke)
 
 <div align="center">
@@ -11,6 +10,9 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🥇 Careers
+- [TCS](https://www.tcs.com/) Systems Engineer (06.03.2025 - Present)
 
 <!--Contributions-->
 <div align="center">
