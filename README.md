@@ -2,7 +2,7 @@
 🏎 ⚽ ♛
 
 - [USACO Guide](https://usaco.guide/) Content Author
-- Systems Engineer @ TCS
+- Systems Engineer @ [TCS](https://www.tcs.com/)
 - [Competitive Programming Profiles](https://codolio.com/profile/S%C5%8Dsuke)
 
 <div align="center">
@@ -33,6 +33,6 @@
 
 
 
-### 📫 How to reach me
+### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/sosuke23/) 
 - [Gmail](mailto:rameezparwez@gmail.com)
