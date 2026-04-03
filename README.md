@@ -18,4 +18,20 @@
     <br/>
 </div>
 
+<!--
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sosuke23&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+-->
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/sosuke23/) 
+- [Gmail](mailto:rameezparwez@gmail.com)
